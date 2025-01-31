@@ -1,0 +1,22 @@
+GameProject {
+ ID "CAV_AllInOne"
+ GUID "6472C2AC5EC89DE7"
+ TITLE "CAV All in One"
+ Dependencies {
+  "6472C0995B021E51" "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

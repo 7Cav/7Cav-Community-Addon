@@ -1,0 +1,2 @@
+# 7th Cavalry Community Addon
+7th Cavalry Community Addon or 7CavCommunityAddon or CavAddon are our community mod containing missions, textures and custom equipment used by the 7th Cavalry Gaming community.
