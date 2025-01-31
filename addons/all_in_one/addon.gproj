@@ -3,7 +3,7 @@ GameProject {
  GUID "6472C2AC5EC89DE7"
  TITLE "CAV All in One"
  Dependencies {
-  "6472C0995B021E51" "58D0FB3206B6F859"
+  "6472C0995B021E51" "58D0FB3206B6F859" "647F5A8C625BB715" ""
  }
  Configurations {
   GameProjectConfig PC {
