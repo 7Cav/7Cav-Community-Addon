@@ -1,9 +1,9 @@
 GameProject {
- ID "CAV_AllInOne"
- GUID "6472C2AC5EC89DE7"
- TITLE "CAV All in One"
+ ID "CAV_Faction_Cav"
+ GUID "647F5A8C625BB715"
+ TITLE "CAV Faction - 7th Cavalry"
  Dependencies {
-  "58D0FB3206B6F859" "6472C0995B021E51" "647F5A8C625BB715"
+  "58D0FB3206B6F859" "6472C0995B021E51"
  }
  Configurations {
   GameProjectConfig PC {
