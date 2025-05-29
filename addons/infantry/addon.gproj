@@ -1,0 +1,8 @@
+GameProject {
+ ID "CAV_Infantry"
+ GUID "657B11B347AF78C8"
+ TITLE "CAV Infantry"
+ Dependencies {
+  "647F5A8C625BB715" "58D0FB3206B6F859"
+ }
+}
